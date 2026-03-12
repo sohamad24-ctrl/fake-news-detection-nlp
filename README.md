@@ -49,7 +49,7 @@ The project uses the **Fake and True News dataset from Kaggle** along with a sma
 - Add multilingual support
 - Build a web-based user interface
 - Integrate real-time news verification APIs
-- 
+  
 ## Example Usage
 
 Enter news text: The government announced a new economic policy today  
