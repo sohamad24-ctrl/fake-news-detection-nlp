@@ -21,8 +21,11 @@ The model uses **TF-IDF vectorization** and **Logistic Regression**, followed by
 
 ## How to Run
 Install dependencies: pip install -r requirements.txt
+
 Train the model: python train_model.py
+
 Run predictions: python predict_calibrated.py
+
 
 Then enter any news-like sentence in the terminal to see the prediction.
 
