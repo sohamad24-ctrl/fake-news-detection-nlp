@@ -41,10 +41,17 @@ The project uses the **Fake and True News dataset from Kaggle** along with a sma
 ## Project Structure
 
 fake-news-detection-nlp/
+
 │
+
 ├── train_model.py
+
 ├── train_calibration.py
+
 ├── predict_calibrated.py
+
 ├── short_inputs.csv
+
 ├── requirements.txt
+
 └── README.md
