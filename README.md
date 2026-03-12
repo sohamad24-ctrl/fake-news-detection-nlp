@@ -37,3 +37,14 @@ The project uses the **Fake and True News dataset from Kaggle** along with a sma
 - Add multilingual support
 - Build a web-based user interface
 - Integrate real-time news verification APIs
+
+## Project Structure
+
+fake-news-detection-nlp/
+│
+├── train_model.py
+├── train_calibration.py
+├── predict_calibrated.py
+├── short_inputs.csv
+├── requirements.txt
+└── README.md
