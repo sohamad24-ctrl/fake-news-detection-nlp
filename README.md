@@ -14,10 +14,10 @@ The model uses **TF-IDF vectorization** and **Logistic Regression**, followed by
 - joblib
 
 ## Project Files
-- 'train_model.py' – trains the machine learning model
-- 'train_calibration.py' – calibrates the probability outputs
-- 'predict_calibrated.py' – predicts whether news is real or fake
-- 'short_inputs.csv' – small dataset used for calibration
+- `train_model.py` – trains the machine learning model
+- `train_calibration.py` – calibrates the probability outputs
+- `predict_calibrated.py` – predicts whether news is real or fake
+- `short_inputs.csv` – small dataset used for calibration
 
 ## How to Run
 Install dependencies: pip install -r requirements.txt
